@@ -50,7 +50,7 @@ Sampling-Theory Studio is a desktop application developed to illustrate the fund
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sampling-theory-studio.git
+   git clone https://github.com/seiftaha/sampling-theory-studio.git
 
 ## License
 
